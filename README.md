@@ -21,5 +21,5 @@ allprojects {
 
 ```
 dependencies {
-     implementation 'com.github.peterzhen40:BaiduClusterUtil:V1.0'
+     implementation 'com.github.peterzhen40:BaiduClusterUtil:1.0'
 }
