@@ -9,10 +9,10 @@ Add it in your root build.gradle at the end of repositories:
 
 ```
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+    repositories {
+      ...
+      maven { url 'https://jitpack.io' }
+    }
 }
 ```
 
@@ -21,5 +21,5 @@ allprojects {
 
 ```
 dependencies {
-     implementation 'com.github.peterzhen40:BaiduClusterUtil:1.0'
+     implementation 'com.github.peterzhen40:BaiduClusterUtil:1.0.1'
 }
